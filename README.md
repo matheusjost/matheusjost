@@ -6,8 +6,7 @@
 <p align="center">
   <a href="https://github.com/matheusjost"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub"></a>
   <a href="https://linkedin.com/in/matheus-jost/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/mvtheusj"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.instagram.com/matheus.jost/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://twitter.com/mvtheusj"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter" alt="Twitter"></a></a>
 </p>
 
 ## about me 👨‍💻
@@ -39,7 +38,6 @@ me = {
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins">
 </p>
 
 ##
