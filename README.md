@@ -15,7 +15,7 @@ me := Dev{
   Name:     "Matheus Jost",
   Since:    2003,
   Hobbies:  string[]{"to code", "listen to music", "sports"},
-  🧑‍🎓:         "CS @ Unisc",
+  🧑‍🎓:       "CS @ Unisc",
 }
 ```
 
